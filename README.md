@@ -14,16 +14,11 @@
   
 #### GitHub Stats
 
-  <a href="https://github.com/Jorge-DevOps">  ![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=Jorge-DevOps&show_icons=true&theme=tokyonight)</a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-DevOps&show_icons=true&theme=tokyonight)](https://github.com/Jorge-DevOps)
+  <a href="https://github.com/Jorge-DevOps">  ![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=Jorge-DevOps&show_icons=true&theme=dracula)</a> 
+  <br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-DevOps&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</a> 
 
-
-<a href="https://github.com/Jorge-DevOps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anurJorge-DevOps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jorge-DevOps&repo=anuraghazra.github.io&theme=buefy" />
-</a>
 
 ## Thecnologies learned
 

@@ -1,11 +1,14 @@
-# Software Engineer Student
+<a href="https://jorge-rangel.dev" target="_blank"><img src="https://jorge-rangel.dev/assets/icons/logo.svg" witdh=90 height=90/> </a>
+
+
+# Software Engineer Student  
 
 - 👋 Hi, I’m @Jorge-DevOps
 - 👀 I’m interested in Software Development DevOps 
 - 👨‍💻 I’m currently learning Frontend Development
 - 🎯 I’m looking to collaborate on ambitious projects with innovation and a high degree of impact
 - 📫 How to reach me ...
-  - <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" witdh=20 height=20/><a href="https://wa.me/573127599006" target="_blank">+ 57 3127599006</a>
+  - <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" witdh=20 height=20/><a href="https://wa.me/573127599006" target="_blank">+ 57 3127599006
   - <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" witdh=20 height=20/> jorgedevops20@gmail.com 
   - 
 

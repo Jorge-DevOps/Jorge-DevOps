@@ -27,18 +27,12 @@
     <img src="https://static.platzi.com/media/achievements/react.png" witdh=90 height=90/>
 </div>
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
   
-  ## Contact
+## Contact
+  <a href="https://www.linkedin.com/in/jorge-rangel-dev/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height=40/> </a>
+  <a href="mailto:jorgedevops20@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height=40/> </a>
+  <a href="https://wa.me/573127599006" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" height=40/></a>
   
-  - 📫 How to reach me ...
-  - <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" witdh=20 height=20/><a href="https://wa.me/573127599006" target="_blank">+ 57 3127599006
-  - <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" witdh=20 height=20/> jorgedevops20@gmail.com
 
 
 <!--   

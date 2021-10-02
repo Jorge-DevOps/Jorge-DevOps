@@ -6,10 +6,6 @@
 - 👀 I’m interested in Software Development DevOps
 - 👨‍💻 I’m currently learning Frontend Development
 - 🎯 I’m looking to collaborate on ambitious projects with innovation and a high degree of impact
-- 📫 How to reach me ...
-  - <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" witdh=20 height=20/><a href="https://wa.me/573127599006" target="_blank">+ 57 3127599006
-  - <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" witdh=20 height=20/> jorgedevops20@gmail.com
-
 
   
 #### GitHub Stats
@@ -38,6 +34,13 @@
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
   
+  ## Contact
+  
+  - 📫 How to reach me ...
+  - <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" witdh=20 height=20/><a href="https://wa.me/573127599006" target="_blank">+ 57 3127599006
+  - <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" witdh=20 height=20/> jorgedevops20@gmail.com
+
+
 <!--   
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

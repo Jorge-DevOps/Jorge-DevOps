@@ -10,18 +10,13 @@
   - <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" witdh=20 height=20/><a href="https://wa.me/573127599006" target="_blank">+ 57 3127599006
   - <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" witdh=20 height=20/> jorgedevops20@gmail.com
 
-.
-  <a href="https://github.com/Jorge-DevOps">
-  ![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=Jorge-DevOps&show_icons=true&theme=tokyonight)  </a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-DevOps&layout=compact&theme=buefy&hide_border=true" /></a> 
 
-#### Top Repositories
-
-
-
-Github Readme Stats by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
   
+#### GitHub Stats
+
+  <a href="https://github.com/Jorge-DevOps">  ![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=Jorge-DevOps&show_icons=true&theme=tokyonight)</a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-DevOps&show_icons=true&theme=tokyonight)](https://github.com/Jorge-DevOps)
+
 
 <a href="https://github.com/Jorge-DevOps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=github-readme-stats&theme=buefy" />

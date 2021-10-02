@@ -11,6 +11,7 @@
   - <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" witdh=20 height=20/><a href="https://wa.me/573127599006" target="_blank">+ 57 3127599006
   - <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" witdh=20 height=20/> jorgedevops20@gmail.com 
   - 
+[! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)
 
 ## Thecnologies learned
 <div style="display:flex">
@@ -21,3 +22,6 @@
     <img src="https://static.platzi.com/media/achievements/badge-angular-4.png" witdh=90 height=90/>
     <img src="https://static.platzi.com/media/achievements/react.png" witdh=90 height=90/>
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+

@@ -5,9 +5,9 @@
 - 👨‍💻 I’m currently learning Frontend Development
 - 🎯 I’m looking to collaborate on ambitious projects with innovation and a high degree of impact
 - 📫 How to reach me ...
-  - <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" witdh=20 height=23/> + 57 3127599006
+  - <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" witdh=20 height=23/><a href="https://wa.me/573127599006" target="_blank">+ 57 3127599006</a>
   - <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" witdh=20 height=23/> jorgedevops20@gmail.com 
-
+  - 
 
 ## Thecnologies learned
 <div style="display:flex">

@@ -1,4 +1,4 @@
-<a href="https://jorge-rangel.dev" target="_blank"><img src="https://jorge-rangel.dev/assets/icons/logo.svg" witdh=90 height=90/> </a>
+<a href="https://jorge-rangel.dev" target="_blank"><img src="https://jorge-rangel.dev/assets/icons/logo.svg" witdh=90 height=190/> </a>
 
 # Software Engineer Student
 

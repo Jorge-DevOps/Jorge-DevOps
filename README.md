@@ -31,7 +31,7 @@
 ## Contact
   <a href="https://www.linkedin.com/in/jorge-rangel-dev/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height=40/> </a>
   <a href="mailto:jorgedevops20@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height=40/> </a>
-  <a href="https://wa.me/573127599006" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" height=40/></a>
+  <a href="https://wa.me/573127599006" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/889/889154.png?w=826&t=st=1666466214~exp=1666466814~hmac=ecaa91bb3af10280d2b26d8603f8985b9fb3d87de67704fa8300629ef80a9201" height=40/></a>
   
 
 

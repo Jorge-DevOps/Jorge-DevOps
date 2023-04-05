@@ -1,38 +1,50 @@
-<a href="https://jorge-rangel.dev" target="_blank"><img src="https://jorge-rangel.dev/assets/icons/logo.svg" witdh=90 height=190/> </a>
+![Logo de Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.ng)
 
-# Software Engineer Student
+# DevOps Enginner 
+### Cloud Enginner Software Enginner
 
 - 👋 Hi, I’m @Jorge-DevOps
 - 👀 I’m interested in Software Development DevOps
-- 👨‍💻 I’m currently learning Frontend Development
+- 👨‍💻 
 - 🎯 I’m looking to collaborate on ambitious projects with innovation and a high degree of impact
 
-  
-#### GitHub Stats
+## Skills
+### DevOps - CI
 
+![Jenkins](https://img.shields.io/badge/linux-black?logo=linux&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-white?logo=Jenkins&logoColor=49728B&style=for-the-badge)
+![Github](https://img.shields.io/badge/github-171515?logo=github&logoColor=white&style=for-the-badge)
+![Gitlab](https://img.shields.io/badge/gitlab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
+![Maven](https://img.shields.io/badge/maven-ea9815?logo=apachemaven&logoColor=white&style=for-the-badge)
+
+
+### DevOps - CD
+![Docker](https://img.shields.io/badge/Docker-2496EC?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3475E0?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/terraform-5F43E9?logo=terraform&logoColor=terraform&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/ansible-black?logo=ansible&logoColor=white&style=for-the-badge)
+
+### Cloud
+![Google Cloud](https://img.shields.io/badge/GCP-4088F6?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Microsoft Azure](https://img.shields.io/badge/Azure-3670A0?logo=microsoftazure&logoColor=white&style=for-the-badge)
+![Amazon Web Service](https://img.shields.io/badge/AWS-262E3B?logo=amazonaws&logoColor=white&style=for-the-badge)
+
+
+
+
+#### GitHub Stats
+<!-- 
   <a href="https://github.com/Jorge-DevOps">  ![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=Jorge-DevOps&show_icons=true&theme=tokyonight)</a> 
   <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-DevOps&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</a> 
-
-
-## Thecnologies learned
-
-<div style="display:flex">
-    <img src="https://static.platzi.com/media/achievements/linux2x.png" witdh=90 height=90/>
-    <img src="https://static.platzi.com/media/career-banner/badge-carrera-fundamentos-.png" witdh=90 height=90/>
-    <img src="https://static.platzi.com/media/achievements/badge-java-ee.png" witdh=90 height=90/>
-    <img src="https://static.platzi.com/media/career-banner/badge-JavaScript.png" witdh=90 height=90/>
-    <img src="https://static.platzi.com/media/achievements/badge-angular-4.png" witdh=90 height=90/>
-    <img src="https://static.platzi.com/media/achievements/react.png" witdh=90 height=90/>
-</div>
 
   
 ## Contact
   <a href="https://www.linkedin.com/in/jorge-rangel-dev/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height=40/> </a>
   <a href="mailto:jorgedevops20@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height=40/> </a>
   <a href="https://wa.me/573127599006" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/889/889154.png?w=826&t=st=1666466214~exp=1666466814~hmac=ecaa91bb3af10280d2b26d8603f8985b9fb3d87de67704fa8300629ef80a9201" height=40/></a>
-  
+  -->
 
 
 <!--   

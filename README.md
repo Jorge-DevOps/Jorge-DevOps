@@ -1,12 +1,20 @@
 ![Logo de Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.ng)
 
 # DevOps Enginner 
-### Cloud Enginner Software Enginner
+### Software | Infraestructure | Cloud | Security | Automation
 
 - 👋 Hi, I’m @Jorge-DevOps
-- 👀 I’m interested in Software Development DevOps
-- 👨‍💻 
-- 🎯 I’m looking to collaborate on ambitious projects with innovation and a high degree of impact
+- 👀 I'm passionate about DevOps automation.
+- 👨‍💻 I work as a DevOps Engineer with experience in cloud platforms and automation tools.
+- ⚙️ I’m looking to collaborate on ambitious projects with innovation and a high degree of impact. Let's build scalable and efficient systems together!
+- 🌐 I'm always learning new technologies to improve my skills and stay up-to-date in the fast-paced world of DevOps.
+- 🚀 I believe that automation is the key to achieving faster and more reliable software delivery.
+- 🤝 Collaboration is essential in DevOps, and I enjoy working with teams to achieve common
+- 📈 I'm interested in monitoring and metrics to measure the performance of applications and infrastructure.
+- 💡 I'm constantly looking for ways to optimize and streamline processes to achieve better results.
+- 🛡️ Security is a top priority for me, and I make sure to implement best practices to keep systems safe.
+- 💻 I enjoy tinkering with technology and building side projects to experiment with new ideas.
+- 📚 I'm a big believer in continuous learning, and I'm always reading books and taking courses to expand my knowledge.
 
 ## Skills
 ### DevOps - CI
@@ -31,9 +39,9 @@
 
 
 
+<!-- 
 
 #### GitHub Stats
-<!-- 
   <a href="https://github.com/Jorge-DevOps">  ![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=Jorge-DevOps&show_icons=true&theme=tokyonight)</a> 
   <br>
   

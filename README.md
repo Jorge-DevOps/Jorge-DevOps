@@ -3,18 +3,18 @@
 # DevOps Enginner 
 ### Software | Infraestructure | Cloud | Security | Automation
 
-- 👋 Hi, I’m @Jorge-DevOps
-- 👀 I'm passionate about DevOps automation.
-- 👨‍💻 I work as a DevOps Engineer with experience in cloud platforms and automation tools.
-- ⚙️ I’m looking to collaborate on ambitious projects with innovation and a high degree of impact. Let's build scalable and efficient systems together!
-- 🌐 I'm always learning new technologies to improve my skills and stay up-to-date in the fast-paced world of DevOps.
-- 🚀 I believe that automation is the key to achieving faster and more reliable software delivery.
-- 🤝 Collaboration is essential in DevOps, and I enjoy working with teams to achieve common
-- 📈 I'm interested in monitoring and metrics to measure the performance of applications and infrastructure.
-- 💡 I'm constantly looking for ways to optimize and streamline processes to achieve better results.
-- 🛡️ Security is a top priority for me, and I make sure to implement best practices to keep systems safe.
-- 💻 I enjoy tinkering with technology and building side projects to experiment with new ideas.
-- 📚 I'm a big believer in continuous learning, and I'm always reading books and taking courses to expand my knowledge.
+- 👋 @Jorge-DevOps
+- 👀 Passionate about DevOps automation.
+- 👨‍💻 DevOps Engineer with cloud and automation experience.
+- ⚙️ Seeking high-impact collaborations for scalable systems.
+- 🌐 Always learning new tech for DevOps skills.
+- 🚀 Automation = faster, reliable software delivery.
+- 🤝 Collaboration is essential in DevOps teamwork.
+- 📈 Monitoring and metrics for app & infrastructure performance.
+- 💡 Constantly optimizing and streamlining processes.
+- 🛡️ Security first with best practices for safe systems.
+- 💻 Enjoys tinkering and side projects with tech.
+- 📚 Believer in continuous learning through books & courses.
 
 ## Skills
 ### DevOps - CI

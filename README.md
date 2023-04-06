@@ -16,30 +16,67 @@
 - 💻 Enjoys tinkering and side projects with tech.
 - 📚 Believer in continuous learning through books & courses.
 
-## Skills
+## 🧠 Skills 
 ### DevOps - CI
 
-![Jenkins](https://img.shields.io/badge/linux-black?logo=linux&logoColor=white&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-white?logo=Jenkins&logoColor=49728B&style=for-the-badge)
-![Github](https://img.shields.io/badge/github-171515?logo=github&logoColor=white&style=for-the-badge)
-![Gitlab](https://img.shields.io/badge/gitlab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
-![Maven](https://img.shields.io/badge/maven-ea9815?logo=apachemaven&logoColor=white&style=for-the-badge)
+[![Linux](https://img.shields.io/badge/linux-black?logo=linux&logoColor=white&style=for-the-badge)](https://www.linux.org/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-white?logo=Jenkins&logoColor=49728B&style=for-the-badge)](https://www.jenkins.io/)
+[![Github](https://img.shields.io/badge/github-171515?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
+[![Gitlab](https://img.shields.io/badge/gitlab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)](https://about.gitlab.com/)
+[![Maven](https://img.shields.io/badge/maven-ea9815?logo=apachemaven&logoColor=white&style=for-the-badge)](https://maven.apache.org/)
 
 
 ### DevOps - CD
-![Docker](https://img.shields.io/badge/Docker-2496EC?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3475E0?logo=kubernetes&logoColor=white&style=for-the-badge)
-![Terraform](https://img.shields.io/badge/terraform-5F43E9?logo=terraform&logoColor=terraform&style=for-the-badge)
-![Ansible](https://img.shields.io/badge/ansible-black?logo=ansible&logoColor=white&style=for-the-badge)
+[![Docker](https://img.shields.io/badge/Docker-2496EC?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-3475E0?logo=kubernetes&logoColor=white&style=for-the-badge)](https://kubernetes.io/es/)
+[![Terraform](https://img.shields.io/badge/terraform-5F43E9?logo=terraform&logoColor=terraform&style=for-the-badge)](https://www.terraform.io/)
+[![Ansible](https://img.shields.io/badge/ansible-black?logo=ansible&logoColor=white&style=for-the-badge)](https://www.ansible.com/)
 
 ### Cloud
-![Google Cloud](https://img.shields.io/badge/GCP-4088F6?logo=googlecloud&logoColor=white&style=for-the-badge)
-![Microsoft Azure](https://img.shields.io/badge/Azure-3670A0?logo=microsoftazure&logoColor=white&style=for-the-badge)
-![Amazon Web Service](https://img.shields.io/badge/AWS-262E3B?logo=amazonaws&logoColor=white&style=for-the-badge)
+[![Google Cloud](https://img.shields.io/badge/GCP-4088F6?logo=googlecloud&logoColor=white&style=for-the-badge)](https://www.cloudskillsboost.google/public_profiles/8fd52597-a4bb-4b32-bafe-1232f9ccb81e)
+[![Microsoft Azure](https://img.shields.io/badge/Azure-3670A0?logo=microsoftazure&logoColor=white&style=for-the-badge)](https://azure.microsoft.com/)
+[![Amazon Web Service](https://img.shields.io/badge/AWS-262E3B?logo=amazonaws&logoColor=white&style=for-the-badge)](https://aws.amazon.com/es/)
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-rangel-dev/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jorgerangel20/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/) 
 
 
 <!-- 
+
+## 🌐 Socials:
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/a) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aaa) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/a) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/a) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/a) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/a) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/a) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@a) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/a) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/a) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@a) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/a) 
+
+# 💻 Tech Stack:
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jorgedevops&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jorgedevops&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedevops&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🐦 Latest Tweet
+
+[![](https://gtce.itsvg.in/api?username=a)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+
+
+[![](https://visitcount.itsvg.in/api?id=jorgedevops&icon=0&color=0)](https://visitcount.itsvg.in)
 
 #### GitHub Stats
   <a href="https://github.com/Jorge-DevOps">  ![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=Jorge-DevOps&show_icons=true&theme=tokyonight)</a> 
@@ -52,10 +89,10 @@
   <a href="https://www.linkedin.com/in/jorge-rangel-dev/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height=40/> </a>
   <a href="mailto:jorgedevops20@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height=40/> </a>
   <a href="https://wa.me/573127599006" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/889/889154.png?w=826&t=st=1666466214~exp=1666466814~hmac=ecaa91bb3af10280d2b26d8603f8985b9fb3d87de67704fa8300629ef80a9201" height=40/></a>
-  -->
 
 
-<!--   
+
+ 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

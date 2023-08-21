@@ -1,4 +1,4 @@
-![Logo de Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.ng)
+<a href="https://jorge-rangel.dev" target="_blank"><img src="https://resourses.site/jrangelz/logo.svg" witdh=150 height=250/> </a>
 
 # DevOps Enginner 
 ### Software | Infraestructure | Cloud | Security | Automation

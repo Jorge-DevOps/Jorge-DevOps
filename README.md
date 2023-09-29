@@ -1,4 +1,4 @@
-<a href="https://jorge-rangel.dev" target="_blank"><img src="https://resourses.site/jrangelz/logo.svg" witdh=150 height=250/> </a>
+<a href="https://jorge-rangel.dev" target="_blank"><img src="https://resourses.site/jorge-rangel/logo.svg" witdh=150 height=250/> </a>
 
 # DevOps Enginner 
 ### Software | Infraestructure | Cloud | Security | Automation
